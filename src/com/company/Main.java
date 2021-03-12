@@ -38,4 +38,6 @@ public class Main {
 
         System.out.println("ЕСЛИ ЗНАЧЕНИЕ ПОЛЯ ОБЪЕМА КУБА РАВНО 0 ЭТО ЗНАЧИТ, ЧТО ВЫ ВВЕЛИ НЕКОРРЕКТНОЕ ЗНАЧЕНИЕ");
     }
+    
+    //for example this string will be test...
 }
